@@ -1,0 +1,5 @@
+com\crm\vtiger\CreateContactTest.class
+com\crm\vtiger\LoginTest.class
+com\crm\vtiger\CreateProductTest.class
+com\crm\vtiger\CreateLeadsTest.class
+com\crm\vtiger\CreateOrgTest.class
