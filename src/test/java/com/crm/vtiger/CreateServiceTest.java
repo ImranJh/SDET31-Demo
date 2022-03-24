@@ -5,10 +5,9 @@ import org.testng.annotations.Test;
 public class CreateServiceTest {
 	
 	@Test
-	public void createProduct()
+	public void createService()
 	{
-		System.out.println("product created");
-				
+		System.out.println("service created");
 	}
 
 }
